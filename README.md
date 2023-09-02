@@ -1,1 +1,1 @@
-Web App to manage beasic necessities of a Farm
+Web App to manage basic necessities of a Farm
